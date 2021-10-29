@@ -1,0 +1,33 @@
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata
+
+# Intellij
+.idea/
+*.iml
+*.iws
+*.ipr
+*.yml
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+lib/
+venv/
+
+*~
+*#*#
+*.#*
+dist/
+logs/
+out/
+
+__pycache__/
+
+.python-version
+abc.jpg
